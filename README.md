@@ -17,3 +17,8 @@ The dataset contains the following features:
 10. Additional_Info
   y(target value):
 11. Price
+
+Feature Engineering methods like Mode Imputation, creation of ordinal labels, 
+one-hot-Encoding, string parsing + numerical extraction, Feature creation, 
+date-time extraction, and discretization are implemented. 
+
